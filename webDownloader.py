@@ -9,7 +9,7 @@ from urllib.parse import urlparse, urljoin
 # Set the starting URL and maximum number of pages to download
 
 start_url = 'https://www.example.com'
-max_pages = 10
+max_pages = 12
 
  
 
